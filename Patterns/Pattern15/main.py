@@ -11,9 +11,9 @@ if __name__=="__main__":
 
 """
 Pattern is:        
+A B C D E 
+A B C D 
+A B C 
+A B 
 A 
-A B
-A B C
-A B C D
-A B C D E
 """
