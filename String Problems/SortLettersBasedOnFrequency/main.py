@@ -12,4 +12,4 @@ if __name__=="__main__":
     sol=Solution()
     s="tree"
     res=sol.frequency_sorting(s)
-    print(f"The string sorted based on freuqncy of occureences is: {res}")
+    print(f"The string sorted based on frequency of occureences is: {res}")
