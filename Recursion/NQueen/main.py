@@ -25,7 +25,7 @@ class Solution:
 
 if __name__=="__main__":
     sol=Solution()
-    n=5
+    n=7
     res=sol.solve_N_queens(n)
     for board in res:
         for row in board:
